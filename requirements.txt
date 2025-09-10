@@ -1,0 +1,17 @@
+#core python
+pandas
+numpy
+scipy
+pyyaml
+nltk
+scikit-learn
+xgboost
+joblib
+gradio
+matplotlib
+seaborn
+plotly
+torch
+streamlit
+spacy
+
