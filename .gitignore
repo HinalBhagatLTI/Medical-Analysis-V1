@@ -1,0 +1,13 @@
+# Ignore Python virtual environments
+medi-dash/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
